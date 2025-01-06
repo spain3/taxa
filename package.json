@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "type": "module",
-  "scripts": { I8uSKFGQaV
+  "scripts": {
     "start": "node .",
     "build": "tsc",
     "prepare": "npm run build"
